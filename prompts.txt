@@ -1,0 +1,129 @@
+Explain this codebase like a senior engineer onboarding.
+
+Include:
+- Project purpose
+- Tech stack
+- Folder structure (high-level)
+- Entry points
+- Main modules and responsibilities
+- How data flows through the system
+
+Keep it concise but structured.
+
+/docs
+  ├── ARCHITECTURE.md
+  ├── FLOWS.md
+  ├── MODULES.md
+  ├── API.md
+  ├── DATA_MODEL.md
+  ├── CONFIG.md
+  ├── CONVENTIONS.md
+  ├── BUSINESS_RULES.md
+  ├── TESTING.md
+  └── SETUP.md
+
+1. Scan this entire codebase and generate a structured documentation set including:
+
+- Architecture overview
+- Key flows
+- Module responsibilities
+- API contracts
+- Data models
+- Business rules
+
+as:
+
+1. ARCHITECTURE.md
+2. FLOWS.md
+3. MODULES.md
+4. API.md
+5. DATA_MODEL.md
+6. BUSINESS_RULE.md
+
+Where is the main entry point of this application?
+Explain how to start the app
+
+Include file references and keep it structured.
+
+Explain this codebase:
+- purpose
+- tech stack
+- folder structure
+- entry points
+Output as separate markdown files.
+
+Scan this repository and generate:
+
+1. ARCHITECTURE.md
+2. FLOWS.md
+3. MODULES.md
+4. API.md
+5. DATA_MODEL.md
+
+Include file references and keep it structured.
+
+----------------------------------
+Based on files below:
+1. ARCHITECTURE.md
+2. FLOWS.md
+3. MODULES.md
+4. API.md
+5. DATA_MODEL.md
+6. BUSINESS_RULES.md
+7. B3 Development getting started
+How to run FE project - BO.BillingCube
+---------------------------------------------------------------------------------------------
+Explain this codebase like a senior engineer onboarding.
+
+Include:
+- Project purpose
+- Tech stack
+- Folder structure (high-level)
+- Entry points
+- Main modules and responsibilities
+- How data flows through the system
+
+Keep it concise but structured.
+
+Based on files in folder projects\ below:
+1. ARCHITECTURE.md
+2. FLOWS.md
+3. MODULES.md
+4. API.md
+5. DATA_MODEL.md
+6. BUSINESS_RULES.md
+7. B3 Development getting started
+Scan this entire codebase (2 repositories as projects\BO.BillingCube and projects\BO.BillingCube-Backend, ignore projects\.continue) and generate a structured documentation set including:
+/docs
+  ├── ARCHITECTURE.md
+  ├── FLOWS.md
+  ├── MODULES.md
+  ├── API.md
+  ├── DATA_MODEL.md
+  ├── CONFIG.md
+  ├── CONVENTIONS.md
+  ├── BUSINESS_RULES.md
+  ├── TESTING.md
+  └── SETUP.md
+
+
+task is done,  please update again:
+- git commit
+- prepare data to fill ticket
+- prepare PRs
+- Prepare message to send Reviewer	
+
+- Read all files at C:\Projects\S\docs and C:\Projects\S\tasks carefully
+- Read all the files at C:\Projects\files\7899
+- Create new task as FS-8067
+- This is dev3 subtask of FS-7899
+
+update all files at C:\Projects\S\docs (USER_GUIDE.md, ...) and C:\Projects\S\tasks if need
+
+update all the files at C:\Projects\S\docs and C:\Projects\S\tasks carefully
+
+- Read all files at C:\Projects\S\docs and some files at C:\Projects\S\tasks carefully
+- Create new task as FS-6088(https://app.clickup.com/t/25526866/FS-6088), it is subtask of FS-6087(https://app.clickup.com/t/25526866/FS-6087)
+
+- Read all the files at C:\Projects\files\8004
+
